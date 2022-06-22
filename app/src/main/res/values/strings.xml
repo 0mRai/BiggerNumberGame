@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myapp2</string>
+    <string name="_3">3</string>
+    <string name="_5">5</string>
+    <string name="choose_the_bigger_number">choose the bigger number</string>
+    <string name="number_guessing_game">NUMBER GUESSING GAME</string>
+</resources>
